@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for https://thenextstepacademy.org",
+  "description": "Functional testing for https://thenextstepacademy.org site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}

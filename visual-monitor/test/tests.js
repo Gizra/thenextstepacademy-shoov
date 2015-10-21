@@ -74,7 +74,7 @@ describe('Visual monitor testing', function() {
         hide:
           [
             // Related article text.
-            '.sprocket-mosaic-text'
+            '.sprocket-mosaic-text',
           ],
         screenWidth: selectedCaps == 'chrome' ? [960] : undefined,
       }, resultsCallback)
